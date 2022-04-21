@@ -207,7 +207,7 @@ export default {
 				"Teamed up with 20 student researchers of ARC on innovative projects, working on Autonomous Wheelchair, Backpack LiDAR, Gazebo/Isaac Simulation Developments, and part of the Aichi Challenge team.",
 				"Interested in full-stack robotics development (hardware, software & integration)",
 				"Experienced in open source development platforms incl. Robot Operating System (ROS) based on Python and C++, OpenCV, Nvidia SDK",
-				"This is an extension from my NUS SRP (Science Research Program) research."
+				"This is an extension from my NUS SRP (Science Research Program) research.",
 			],
 			tags: ["Navigation", "Mapping", "Perception", "Simulation", "Robot Operating System (ROS)", "Mobile Robotics"],
 			icon: "group",
@@ -229,21 +229,21 @@ export default {
 			tags: ["Manipulation", "Integration", "Simulation", "Data Analysis", "Robot Operating System (ROS)"],
 			icon: "qrcode",
 		},
-		// {
-		// 	title: "Future Urban Mobility, Singapore-MIT Alliance for Research & Technology Centre (SMART)",
-		// 	duration: "May 2017 - April 2018",
-		// 	subtitle: "Student Researcher, Robotic Mapping",
-		// 	details: [
-		// 		">> Selected to be part of the MOE-NUS Science Research Program (SRP). The SRP is part of Singapore Ministry of Education's highly-selective Gifted Education Program (GEP) that provides high school students the opportunity to engage in university-level research opportunities. I chose Robotics as my main field of interest, engaged in the research titled - Simulation and Localisation of Self-Driving Vehicles by Utilizing OpenStreetMap",
-		// 		"Conducted research to evaluate map databases available which best suits the simulation requirements of self-driving vehicles -- equipped with vital information for mapping and localisation purposes.",
-		// 		"Design environments with high accuracy for simulation purposes with Gazebo.",
-		// 		"Performed vigorous testings on the reliability of the simulation by fine-tuning parameters on ROS.",
-		// 		"Acquired knowledge in Robot Operating Systems (ROS), Mapping and Localisation with SLAM methods and simulation through Linux Gazebo platforms.",
-		// 		"Represented Anderson Junior College to Singapore Science and Engineering Fair 2018 (Finalist) and the International Elementz Science Conference 2018 (Bronze Medalist)."
-		// 	],
-		// 	tags: ["Manipulation", "Integration", "Simulation", "Data Analysis", "Robot Operating System (ROS)"],
-		// 	icon: "group",
-		// },
+		{
+			title: "Future Urban Mobility, Singapore-MIT Alliance for Research & Technology Centre (SMART)",
+			duration: "May 2017 - April 2018",
+			subtitle: "Student Researcher, Robotic Mapping",
+			details: [
+				">> Selected to be part of the MOE-NUS Science Research Program (SRP). The SRP is part of Singapore Ministry of Education's highly-selective Gifted Education Program (GEP) that provides high school students the opportunity to engage in university-level research opportunities. I chose Robotics as my main field of interest, engaged in the research titled - Simulation and Localisation of Self-Driving Vehicles by Utilizing OpenStreetMap",
+				"Conducted research to evaluate map databases available which best suits the simulation requirements of self-driving vehicles -- equipped with vital information for mapping and localisation purposes.",
+				"Design environments with high accuracy for simulation purposes with Gazebo.",
+				"Performed vigorous testings on the reliability of the simulation by fine-tuning parameters on ROS.",
+				"Acquired knowledge in Robot Operating Systems (ROS), Mapping and Localisation with SLAM methods and simulation through Linux Gazebo platforms.",
+				"Represented Anderson Junior College to Singapore Science and Engineering Fair 2018 (Finalist) and the International Elementz Science Conference 2018 (Bronze Medalist)."
+			],
+			tags: ["Manipulation", "Integration", "Simulation", "Data Analysis", "Robot Operating System (ROS)"],
+			icon: "group",
+		},
 	],
 	education: [
 		{
