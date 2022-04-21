@@ -234,7 +234,7 @@ export default {
 			duration: "May 2017 - April 2018",
 			subtitle: "Student Researcher, Robotic Mapping",
 			details: [
-				">> Selected to be part of the MOE-NUS Science Research Program (SRP). The SRP is part of Singapore Ministry of Education's highly-selective Gifted Education Program (GEP) that provides high school students the opportunity to engage in university-level research opportunities. I chose Robotics as my main field of interest, engaged in the research titled "Simulation and Localisation of Self-Driving Vehicles by Utilizing OpenStreetMap".",
+				">> Selected to be part of the MOE-NUS Science Research Program (SRP). The SRP is part of Singapore Ministry of Education's highly-selective Gifted Education Program (GEP) that provides high school students the opportunity to engage in university-level research opportunities. I chose Robotics as my main field of interest, engaged in the research titled - Simulation and Localisation of Self-Driving Vehicles by Utilizing OpenStreetMap",
 				"Conducted research to evaluate map databases available which best suits the simulation requirements of self-driving vehicles -- equipped with vital information for mapping and localisation purposes.",
 				"Design environments with high accuracy for simulation purposes with Gazebo.",
 				"Performed vigorous testings on the reliability of the simulation by fine-tuning parameters on ROS.",
@@ -254,12 +254,12 @@ export default {
 				"Robotics Specialization (Robot Intelligence Track)",
 				"Innovation and Design Program (Engineering iDP)",
 				"University Town College Program (Residential College 4)",
-				"Winter Program (NUS Research Institute Suzhou, China)",
+				"Winter Program (NUS Research Institute Suzhou, China)"
 			],
 			tags: [
 				"Second Major in Innovation & Design (iDP)",
 				"Minor in Data Engineering",
-				"Minor in Urban Studies",
+				"Minor in Urban Studies"
 			],
 			icon: "graduation-cap",
 		},
