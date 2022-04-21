@@ -224,7 +224,7 @@ export default {
 				"Prepare technical reports, conduct technical presentations & communicate with stake holders.",
 				"Support negotiations with internal customers to reconcile requirements with proposed solutions & business needs / with external partners in projects",
 				"Support decision-making to resolve business problems",
-				"Enforce compliance of safety & good manufacturing practices and processes in production area",
+				"Enforce compliance of safety & good manufacturing practices and processes in production area"
 			],
 			tags: ["Manipulation", "Integration", "Simulation", "Data Analysis", "Robot Operating System (ROS)"],
 			icon: "qrcode",
