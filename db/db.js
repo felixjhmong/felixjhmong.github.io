@@ -247,34 +247,21 @@ export default {
 	],
 	education: [
 		{
-			title: "Bachelors in Computer Science and Engineering",
-			duration: "",
-			subtitle: "National Institute of Technology, Warangal",
+			title: "Bachelor of Engineering, Mechanical Engineering (Robotics Specialization)",
+			duration: "August 2019 - Present",
+			subtitle: "National University of Singapore",
 			details: [
-				"Qualified GATE-2020.",
-				"Active Competitive Programmer with CodeChef Rating 1841*.",
-				"Received 500+ stars and 300+ forks on GitHub projects.",
+				"Robotics Specialization (Robot Intelligence Track)",
+				"Innovation and Design Program (Engineering iDP)",
+				"University Town College Program (Residential College 4)",
+				"Winter Program (NUS Research Institute Suzhou, China)",
 			],
 			tags: [
-				"Data Structures & Algorithms",
-				"Operating Systems",
-				"Database Management System",
-				"Computer Networks",
-				"Compiler Designing",
-				"Cloud Computing",
+				"Second Major in Innovation & Design (iDP)",
+				"Minor in Data Engineering",
+				"Minor in Urban Studies",
 			],
 			icon: "graduation-cap",
-		},
-		{
-			title: "Class 11-12th in Science and Mathematics",
-			duration: "",
-			subtitle: "Board of Secondary Education, Rajasthan",
-			details: [
-				"Qualified JEE Advanced, Main & BITSAT.",
-				"Secured 99.5 percentile in Class 12th Boards Examinations.",
-			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
-			icon: "book",
 		},
 	],
 	footer: [
@@ -287,7 +274,7 @@ export default {
 				},
 				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
+					link: "https://github.com/felixjhmong",
 				},
 				{
 					text: "LeetCode",
@@ -317,7 +304,7 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
+					link: "https://www.linkedin.com/in/felixmong/",
 				},
 				{
 					text: "Twitter",
