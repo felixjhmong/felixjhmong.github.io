@@ -254,12 +254,12 @@ export default {
 				"Robotics Specialization (Robot Intelligence Track)",
 				"Innovation and Design Program (Engineering iDP)",
 				"University Town College Program (Residential College 4)",
-				"Winter Program (NUS Research Institute Suzhou, China)"
+				"Winter Program (NUS Research Institute Suzhou, China)",
 			],
 			tags: [
 				"Second Major in Innovation & Design (iDP)",
 				"Minor in Data Engineering",
-				"Minor in Urban Studies"
+				"Minor in Urban Studies",
 			],
 			icon: "graduation-cap",
 		},
